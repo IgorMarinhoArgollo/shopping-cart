@@ -39,15 +39,19 @@ input {
 }
 
 .item {
-  border          : 2px solid #3483fa;
-  border-radius   : 15px;
-  box-sizing      : border-box;
-  display         : flex;
-  flex-direction  : column;
-  height          : auto;
-  margin          : 5px;
-  width           : 200px;
-  background-color: white;
+  box-sizing                : border-box;
+  display                   : flex;
+  flex-direction            : column;
+  height                    : auto;
+  margin                    : 1px;
+  width                     : 200px;
+  background-color          : white;
+  border-bottom-left-radius : 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.item:hover {
+  box-shadow: 0 2px 3px 1px rgb(0 0 0 / 0.8);
 }
 
 .item .itemSku {
@@ -102,12 +106,12 @@ input {
   display      : flex;
   margin-bottom: 3vh;
   position     : relative;
-  z-index: -1;
+  z-index      : -1;
 }
 
 .inputValue {
-  width: 100%;
-  height: 25px;
+  width        : 100%;
+  height       : 25px;
   border-radius: 5px;
 }
 
@@ -115,7 +119,7 @@ input {
   width   : 20%;
   position: absolute;
   right   : 0;
-  height: 25px;
+  height  : 25px;
 }
 
 .price {
@@ -196,6 +200,6 @@ li {
 
 .searchIcon {
   height: 100%;
-  width: 100%;
+  width : 100%;
   filter: invert(100%) sepia(0%) saturate(7500%) hue-rotate(299deg) brightness(104%) contrast(102%);
 }
