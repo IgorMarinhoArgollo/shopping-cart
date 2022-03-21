@@ -102,6 +102,7 @@ input {
   display      : flex;
   margin-bottom: 3vh;
   position     : relative;
+  z-index: -1;
 }
 
 .inputValue {
