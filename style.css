@@ -140,6 +140,7 @@ header {
   align-items     : center;
   padding-top     : 5px;
   padding-bottom  : 5px;
+  z-index: 1;
 }
 
 main {
