@@ -5,7 +5,7 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/shopping-cart">
   
-  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+  <a href="https://github.com/igormarinhoargollo/shopping-cart/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/shopping-cart">
   </a>
     
