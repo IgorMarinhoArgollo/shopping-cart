@@ -1,5 +1,16 @@
 # Shopping Cart
 
+<p>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/igormarinhoargollo/shopping-cart?color=%2304D361">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/shopping-cart">
+  
+  <a href="https://github.com/tgmarinho/README-ecoleta/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/shopping-cart">
+  </a>
+    
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+   
 <details>
   <summary><h2>:brazil: Português</h2></summary>
   Esse projeto foi desenvolvido enquanto estudando Fundamentos de Desenvolvimento Web no curso da Trybe, com o fim educacional de exercitar funções assíncronas.<br> Nesse projeto é possível se realizar pesquisas na API do Mercado Livre, adicionar os produtor em um carrinho, remover um produto do carrinho ao clicar sobre o seu nome, limpar o carrinho e salvar os produtos do carrinho no localstorage para posteriormente continuar com o carrinho cheio.
