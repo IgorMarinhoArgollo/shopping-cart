@@ -5,11 +5,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/igormarinhoargollo/shopping-cart">
   
-  <a href="https://github.com/igormarinhoargollo/shopping-cart/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/shopping-cart">
-  </a>
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/igormarinhoargollo/shopping-cart">
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
    
 <details>
   <summary><h2>:brazil: Português</h2></summary>
