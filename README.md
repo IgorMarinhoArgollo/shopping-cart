@@ -47,16 +47,12 @@
   ### Clonar no seu computador (via SSH)
   No terminal:
   
-    git clone git@github.com:IgorMarinhoArgollo/quidditch-signup.git
+    git clone git@github.com:IgorMarinhoArgollo/shopping-cart.git
   
  
   ### Iniciando o projeto localmente
   Abra o projeto com o VS code e rode o projeto com a extensão Live Server
 <br><br>
-  ## Informações de Desenvolvimento
-  Commits de Desenvolvimento: 15; <br>
-  Tempo Gasto: 3 dias;<br><br>
-  
   
   ## Como contribuir no projeto
   1. Faça um **fork** do projeto;
@@ -115,15 +111,10 @@ This project was developed while studying Fundamentals of Web Development in the
   ### Cloning into your computer (via SSH)
   On terminal:
 
-      git clone git@github.com:IgorMarinhoArgollo/quidditch-signup.git
+      git clone git@github.com:IgorMarinhoArgollo/shopping-cart.git
 
   ### Starting project locally
   Open the project with VS Code and run it with the Live Server Extension.<br><br>
-  
-
-## Development Information
-  Development Commits: 15; <br>
-  Time Spent: 3 days; <br><br>
   
 ## How to contribute on the project
   1. Make a **fork** of the project;
